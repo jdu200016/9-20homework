@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Pushti to`ti",
+    "price":23 ,
+    "image": "burger-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "nyam-nyam",
+    "price": 30,
+    "image": "burger-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "pishloqli",
+    "price": 24,
+    "image": "burger-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Burger oddiy",
+    "price": 26,
+    "image": "burger-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Burger s chemta",
+    "price": 21,
+    "image": "burger-5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "King",
+    "price": 24,
+    "image": "burger-6.jpg"
+  }
+  {
+    "id": 7,
+    "name": "Objora",
+    "price": 22,
+    "image": "burger-7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Qora pantera",
+    "price": 25,
+    "image": "burger-8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Standart Minimal",
+    "price": 32,
+    "image": "burger-9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Big king",
+    "price": 22,
+    "image": "burger-10.jpg"
+  },
+]
